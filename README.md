@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rutuja</h1>
 <h3 align="center">A Web Developer</h3>
 
-- 🔭 I’m currently working with **front end technologies**
+- 🔭 I’m currently working with **Frontend Technologies**
 
-- 🌱 I’m currently learning **ANGULAR,DSA**
+- 🌱 I’m currently learning **ANGULAR,DSA,GraphQL**
 
 - 📫 How to reach me **rutujakadav2002@gmail.com || https://www.linkedin.com/in/rutuja-kadav-9bb037212/**
 

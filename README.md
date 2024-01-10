@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, DSA**
 
-- 📫 How to reach me **rutujakadav2002@gmail.com**
+- 📫 How to reach me **rutujakadav2002@gmail.com** || **https://www.linkedin.com/in/rutuja-kadav-9bb037212/**
 
 
 <p align="left">
